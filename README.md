@@ -1,1 +1,1 @@
-g++ getUrl2LocalString.cpp -lcurl
+g++ getUrl2LocalString.cpp -lcurl -lboost_regex
